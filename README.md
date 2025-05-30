@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoelFriedrich
-- 👀 I’m interested in coffee
-- 🌱 I’m currently learning full stack web development 
-- 📫 How to reach me joelandfriend@gmail.com
+- 👀 I love good coffee
+- 🌱 I’m a web developer
+- 📫 How to reach me joelfriedrichdev@gmail.com
 - ⚡ Fun fact: I own a coffee shop
 
 <!---
